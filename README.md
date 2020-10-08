@@ -1,7 +1,7 @@
 # TietoDokuHarj_Team
 
-## Pääsunnittelija
-## Ohjelmoija / arkkitehti
+### Pääsunnittelija
+#### Ohjelmoija / arkkitehti
 Toni
 
 ### Vara suunnittelija
