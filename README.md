@@ -1,10 +1,12 @@
 # TietoDokuHarj_Team
 
-##Toni
 ## Pääsunnittelija
 ## Ohjelmoija / arkkitehti
-##Joona
-## Vara suunnittelija
-##Ohjelmoija / arkkitehti 
-##Valtteri
-## Ohjelmoija / arkkitehti
+Toni
+
+### Vara suunnittelija
+#### Ohjelmoija / arkkitehti
+Joona
+
+### Ohjelmoija / arkkitehti
+#### Valtteri
