@@ -10,3 +10,5 @@ Joona
 
 ### Ohjelmoija / arkkitehti
 #### Valtteri
+
+Projekti on pääosin kirjoitettu Javalla.
