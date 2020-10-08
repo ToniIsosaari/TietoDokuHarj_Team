@@ -4,7 +4,7 @@
 #### Ohjelmoija / arkkitehti
 Toni
 
-### Vara suunnittelija
+### Vara pääsuunnittelija
 #### Ohjelmoija / arkkitehti
 Joona
 
